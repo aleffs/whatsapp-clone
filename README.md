@@ -1,5 +1,5 @@
 
-Link to demo application: https://whatsapp-clone-6821d.web.app/
+<h3><a target="_blank" href="https://whatsapp-clone-6821d.web.app/">View Demo Application</a></h3>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
