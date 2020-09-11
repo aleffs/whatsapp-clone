@@ -1,6 +1,3 @@
-
-<h4>Follow me on <a href="codewithkarani.tech" target="_blank"> codewithkarani.tech </a> </h4>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
