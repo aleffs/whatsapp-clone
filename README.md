@@ -1,6 +1,5 @@
 
-<h3><a target="_blank" href="https://whatsapp-clone-6821d.web.app/">View Demo Application</a></h3>
-
+<h4>Follow me on <a href="codewithkarani.tech" target="_blank"> codewithkarani.tech </a> </h4>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
